@@ -9,7 +9,3 @@
     <li>HTML</li>
     <li>CSS</li>
 </ul
-<p align="center">
-<h3>Visão do Game</h3>
-<img src="exemplo.PNG" >
-</p>
